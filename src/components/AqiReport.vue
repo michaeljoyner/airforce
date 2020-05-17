@@ -25,9 +25,6 @@
         <p>{{ time }}</p>
       </div>
     </div>
-    <div
-      class="flex flex-col justify-center items-center text-white pt-20"
-    ></div>
   </div>
 </template>
 
